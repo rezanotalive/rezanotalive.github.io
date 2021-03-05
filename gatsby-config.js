@@ -5,6 +5,6 @@
  */
 
 module.exports = {
-  pathPrefix: "/rezanotalive.github.io",
+
   plugins: [],
 }
