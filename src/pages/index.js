@@ -1,9 +1,9 @@
 import React from "react"
 
-export default function Home() {
-  return (
-    <div>
-      <h1>reza</h1>
-    </div>
-  )
+import Layout from "../components/layout"
+
+const indexPage = () => {
+  return <Layout>reza</Layout>
 }
+
+export default indexPage
