@@ -91,9 +91,15 @@ body {
   font-size: 12rem;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .header .header-container h1 {
     font-size: 5.4rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .header .header-container h1 {
+    font-size: 4rem;
   }
 }
 
