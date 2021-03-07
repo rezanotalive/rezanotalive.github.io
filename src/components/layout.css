@@ -95,11 +95,14 @@ body {
   .header .header-container h1 {
     font-size: 5.4rem;
   }
+  .header .header-container {
+    width: 100%;
+  }
 }
 
 @media (max-width: 480px) {
   .header .header-container h1 {
-    font-size: 4rem;
+    font-size: 3.2rem;
   }
 }
 
