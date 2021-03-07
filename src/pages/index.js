@@ -13,7 +13,7 @@ const indexPage = () => {
             <br />
             Photographer
             <br />
-            &nbsp;Programmer
+            &nbsp;&nbsp;Programmer
           </h1>
         </div>
       </div>

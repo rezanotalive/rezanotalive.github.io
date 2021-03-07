@@ -68,6 +68,17 @@ body {
   text-align: right;
 }
 
+.navbar .navbar-container .site-year ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar .navbar-container .site-year li {
+  float: right;
+  display: inline;
+  padding: 0px 0px 0px 20px;
+}
+
 /* header */
 
 .header {
@@ -80,7 +91,7 @@ body {
   font-size: 12rem;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
   .header .header-container h1 {
     font-size: 5.4rem;
   }
